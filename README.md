@@ -44,7 +44,7 @@ src/
 
 1. Clone the repository:
 ```bash
-git clone [<repository-url>](https://github.com/shariq104/react-typescript-starter.git)
+git clone https://github.com/shariq104/react-typescript-starter.git
 cd react-typescript-starter
 ```
 
