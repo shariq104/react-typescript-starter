@@ -44,8 +44,8 @@ src/
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd react-boilerplate
+git clone [<repository-url>](https://github.com/shariq104/react-typescript-starter.git)
+cd react-typescript-starter
 ```
 
 2. Install dependencies:
